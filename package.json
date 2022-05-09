@@ -2,7 +2,5 @@
   "name": "hexo-ppt",
   "version": "0.1.0",
   "main": "index.js",
-  "dependencies": {
-    "cheerio": "^1.0.0-rc.10"
-  }
+  "license": "MIT"
 }
